@@ -1,0 +1,2 @@
+# imgs
+Imagenes de entrenamiento
